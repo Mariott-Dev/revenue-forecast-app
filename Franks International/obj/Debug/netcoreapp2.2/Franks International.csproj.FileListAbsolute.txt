@@ -1,0 +1,33 @@
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks International.deps.json
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks International.runtimeconfig.json
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks International.runtimeconfig.dev.json
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks International.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks International.pdb
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks International.Views.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks International.Views.pdb
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.csprojAssemblyReference.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.csproj.CoreCompileInputs.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.RazorAssemblyInfo.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.RazorAssemblyInfo.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.AssemblyInfoInputs.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.AssemblyInfo.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.TagHelpers.input.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.TagHelpers.output.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.RazorCoreGenerate.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.RazorTargetAssemblyInfo.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.RazorTargetAssemblyInfo.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.Views.pdb
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.pdb
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\obj\Debug\netcoreapp2.2\Franks International.csproj.CopyComplete
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks InternationalML.Model.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\MLModel.zip
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks International\bin\Debug\netcoreapp2.2\Franks InternationalML.Model.pdb

@@ -1,0 +1,15 @@
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.deps.json
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.runtimeconfig.json
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.pdb
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\Franks InternationalML.Model.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\bin\Debug\netcoreapp2.1\Franks InternationalML.Model.pdb
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\obj\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\obj\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\obj\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\obj\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\obj\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.csproj.CopyComplete
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\obj\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.ConsoleApp\obj\Debug\netcoreapp2.1\Franks InternationalML.ConsoleApp.pdb

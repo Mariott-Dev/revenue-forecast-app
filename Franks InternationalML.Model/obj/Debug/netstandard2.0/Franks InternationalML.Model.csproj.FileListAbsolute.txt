@@ -1,0 +1,10 @@
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\bin\Debug\netstandard2.0\Franks InternationalML.Model.deps.json
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\bin\Debug\netstandard2.0\Franks InternationalML.Model.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\bin\Debug\netstandard2.0\Franks InternationalML.Model.pdb
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\obj\Debug\netstandard2.0\Franks InternationalML.Model.csprojAssemblyReference.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\obj\Debug\netstandard2.0\Franks InternationalML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\obj\Debug\netstandard2.0\Franks InternationalML.Model.AssemblyInfoInputs.cache
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\obj\Debug\netstandard2.0\Franks InternationalML.Model.AssemblyInfo.cs
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\obj\Debug\netstandard2.0\Franks InternationalML.Model.dll
+C:\Users\Dane\Downloads\dotnetLearn\Franks International\Franks InternationalML.Model\obj\Debug\netstandard2.0\Franks InternationalML.Model.pdb
