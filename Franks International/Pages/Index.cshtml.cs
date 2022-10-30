@@ -26,15 +26,8 @@ namespace Franks_International.Pages
         [BindProperty]
         public int UserDuration { get; set; }
 
-        //scratch code below
-
-        //int[] arrayYear = new int[] { 2019, 2020, 2021 }; //array for input years
-        //int[] arrayMonth = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 }; //array for input months
         List<float> lPredictionScore = new List<float>(); // initialization of list for predictions
         List<int> lPredictionMonth = new List<int>(); //initialization of list of months
-
-        //int[] arrayDuration = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
-        //end scratch code
 
         public void OnPost(int userYear, int userMonth, int userDuration, float userDayRevenue = 0)
         {
