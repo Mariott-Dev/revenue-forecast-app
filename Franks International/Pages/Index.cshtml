@@ -10,17 +10,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Exploring Chart.js</title>
 </head>
-<body>
-    @*<h5>@Html.Raw(ViewData["confirmation"])</h5>*@
+<body>  
     <form class="form-horizontal" method="post">
-        @*<div class="form-group">
-                <div class="col-sm-offset-2 col-sm-10">
-                    <button type="submit">Forecast</button>
-                </div>
-            </div>*@
-        @*class="btn btn-default"*@
         <select name="userMonth">
-            @*<option value="">Select a Month</option>*@
             <option selected="selected" value="1">January</option>
             <option value="2">February</option>
             <option value="3">March</option>
@@ -36,10 +28,8 @@
         </select>
 
         <select name="userYear">
-            @*<option value="">Select a Year</option>*@
             <option value="2019">2019</option>
             <option selected="selected" value="2020">2020</option>
-            @*<option value="2021">2021</option>*@
         </select>
 
         <select name="userDuration">
@@ -62,51 +52,11 @@
             </div>
         </div>
     </form>
-    @*<div class="form-group">
-            <div class="col-sm-offset-2 col-sm-10">
-                <button type="submit" class="btn btn-default">Forecast</button>
-            </div>
-        </div>*@
-
-    @*<select name="userDay">
-            <option value="">Select a day</option>
-            <option value="28">28</option>
-            <option value="29">29</option>
-            <option value="30">30</option>
-            <option value="31">31</option>
-        </select>*@
-
-    @*<select name="userDayRevenue">
-            <option value="">Select the day's revenue</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-        </select>*@
-
-    @*<H2>Smart Distribution Systems @DateTime.Now</H2>*@
     <br />
     <br />
-    @*<canvas id="myChart" width="400" height="400"></canvas>*@
-    @*<div style="width: 55%;
-                margin-left: auto;
-                margin-right: auto;">
-            <canvas id="myChart" width="500" height="400"></canvas>
-        </div>*@
+
     <h5 style="color:blue;font-family:Tahoma;margin-top:0em;">@Html.Raw(ViewData["confirmation"])</h5>
-    @*<style>
-            .container {
-                /*margin: auto;
-                padding: 3em 1em 5em 10em;*/
-                width: 80%;
-                height: 80%;
-            }
-        </style>*@
-    @*<div id="MyComponent">
 
-            @(await Html.RenderComponentAsync<MyComponent>(RenderMode.ServerPrerendered))
-        </div>*@
-    @*<h5 style="color:blue;font-family:Tahoma;">@Html.Raw(ViewData["confirmation"])</h5>*@
     <button id="renderBtn">
         Render Chart
     </button>
